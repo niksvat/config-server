@@ -1,10 +1,10 @@
 v2:
   name: v2
   path1: v2/path
-  env: v2-envs
+  env: v2-envs-demo
   
   
 v1:
   name: v1
   path1: v1/path
-  env: v1-envs
+  env: v1-envs-demo
