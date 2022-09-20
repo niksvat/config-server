@@ -1,0 +1,4 @@
+v2:
+  name: v2
+  path1: v2/path
+  env: v2-env-qa
